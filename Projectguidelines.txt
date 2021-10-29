@@ -1,0 +1,37 @@
+1. Decide the topic.
+2. Decide initial Basic functionalities.
+	Insert records
+	display records
+	Query
+	Update
+	Delete
+3. Decide the details to be stored - Entity
+e.g School mgmt - Student, Teacher,Subject- Identify the attbributes
+and functions.
+4.Create functions for each functionalities.
+	Division of work amongst groups.
+5. Design login screen.- Security
+6. Design main menu screen, empty finctions
+e.g
+def update:
+	pass
+def delrecord:
+	pass
+7. Extend your project [ Future scope of the project]
+8. Modules - DO NOT WRITE ALL FUNCTIONS IN ONE PROGRAM.
+
+Project Documentation:
+
+1.Cover Page (to be done together)
+2. Index ------------------------------------------------------------------------------------------------------------------(me)
+3. Acknowledgement -------------------------------------------------------------------------------------------------(aryaman)
+4. Certificate ------------------------------------------------------------------------------------------------------------(me)
+5. Introduction - About the case study, Desc of the main functionalities --------------------------------(aryaman)
+6. Entities ----------------------------------------------------------------------------------------------------------------(me)
+7. Flow of control- Outputs: -----------------------------------------------------------------------------------------(both will discuss)
+	Main screen..Login screen.. Main Menu... Option wise screen
+8. Program Listing -------------------------------------(individual will make a page on msword of the programs done by them)
+9. Future scope --------------------------------------------------------------------------------------------------------(both will discuss)
+10. Bibliography -------------------------------------------------------------------------------------------------------(aryaman)
+
+
