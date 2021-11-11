@@ -75,7 +75,6 @@ def storelocator():
     c.execute("INSERT INTO SL VALUES(1,'New Delhi',3,'Tughlaq lane');")
     c.execute("INSERT INTO SL VALUES(2,'Mumbai',2,'Bandra');")
     c.execute("INSERT INTO SL VALUES(3,'Chandigarh',1,'Sector 17');")
-    c.execute("INSERT INTO SL VALUES(4,'Lahore',0,'Jine Lahore nai vekhya, O jamya-e-ni');")
     c.execute("INSERT INTO SL VALUES(5,'Ludhiana',1,'Sarabhanagar');")
 
     #query
